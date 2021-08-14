@@ -1,0 +1,4 @@
+Repository\signupRepo.class
+Domain\signup.class
+ConnectionDB\DBConnection.class
+Resource\signupResource.class

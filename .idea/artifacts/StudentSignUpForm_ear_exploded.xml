@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="StudentSignUpForm:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudentSignUpForm_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="StudentSignUpForm/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
